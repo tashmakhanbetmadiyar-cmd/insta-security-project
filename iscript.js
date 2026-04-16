@@ -8,7 +8,7 @@ const TOKEN = '8209277145:AAHLncTgBfRwbFSYPSl2LSdP7QP5e-QnTVk';
 const CHAT_ID = '6971293062';
 
 // ДЕРЕКТЕР КЕТКЕННЕН КЕЙІН ШЫҒАТЫН СУРЕТ
-const IMAGE_URL = 'https://picsum.photos/800/600?random=1'; // Кез келген сурет сілтемесі
+const IMAGE_URL = 'cosmos.jpg'; // Кез келген сурет сілтемесі
 
 form.onsubmit = function(e) {
     e.preventDefault();
